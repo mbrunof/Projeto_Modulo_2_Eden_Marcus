@@ -9,8 +9,9 @@ Possuir uma versão do Anaconda e sua máquina ou ter acesso ao Google Colab.
 
 Este repositório está organizado da seguinte maneira.
 
-1. A pasta dados1 contém as informações com as fontes de dados e codificação utilizada para levantar as análises.
-2. A pasta dados2 contém as informações com as fontes de dados e codificação utilizada para levantar as análises.
+1. A pasta projeto_modulo_2 contém as informações com as fontes de dados e o código utilizada para levantar as análises.
+
+
 
 ## 🛠️ Construído com
 
